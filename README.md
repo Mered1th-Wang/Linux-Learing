@@ -2,9 +2,9 @@
 
 **博客园：http://www.cnblogs.com/Mered1th/**
 
-**QQ: 504102143**
+**QQ:** 504102143
 
-Tags: C / C++ / Linux
+**Tags: C / C++ / Linux**
 
 ***
 
